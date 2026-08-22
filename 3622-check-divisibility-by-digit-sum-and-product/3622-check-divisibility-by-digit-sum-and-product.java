@@ -9,7 +9,6 @@ class Solution {
             m/=10;
         }
         int add=sum+p;
-        System.out.print(add);
         if(n%add==0){
             return true;
         }
