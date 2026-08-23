@@ -10,6 +10,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Binary Search
@@ -58,4 +59,16 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1927-sum-game/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1927-sum-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
