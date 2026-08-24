@@ -47,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [3026-maximum-good-subarray-sum](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3026-maximum-good-subarray-sum/) | Medium |
@@ -68,6 +69,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1927-sum-game](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1927-sum-game/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -91,4 +93,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1872-stone-game-viii/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
