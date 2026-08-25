@@ -13,16 +13,16 @@ class Solution {
             int k=min + (max-min)/2;                //mid
             long hr=0;
             for(int p:piles){
-                // if(hr>h) break;
-                // if(p==k){
-                //     hr+=p/k;
-                // }else{
-                //     hr+=(p/k)+1;
-                // }
-                  hr+=p/k;
-
-                if(p%k != 0) hr++;
+                if(p%k==0){
+                    hr+=p/k;
+                }else{
+                    hr+=(p/k)+1;
+                }
                 if(hr>h) break;
+                //   hr+=p/k;
+
+                // if(p%k != 0) hr++;
+                // if(hr>h) break;
                 
             }
             if(hr<=h){
