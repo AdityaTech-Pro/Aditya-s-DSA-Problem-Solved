@@ -18,7 +18,7 @@ class Solution {
                 }else{
                     hr+=(p/k)+1;
                 }
-                if(hr>h) break;
+                //if(hr>h) break;
             }
             if(hr<=h){
                 ans=k;
