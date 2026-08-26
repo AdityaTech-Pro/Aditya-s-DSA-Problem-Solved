@@ -76,6 +76,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0520-detect-capital](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0520-detect-capital/) | Easy |
 | [1927-sum-game](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1927-sum-game/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
