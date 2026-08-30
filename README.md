@@ -9,6 +9,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1872-stone-game-viii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1872-stone-game-viii/) | Hard |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3026-maximum-good-subarray-sum](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3026-maximum-good-subarray-sum/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -87,6 +88,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1927-sum-game](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1927-sum-game/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
