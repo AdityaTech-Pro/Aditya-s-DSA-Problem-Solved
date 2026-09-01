@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1872-stone-game-viii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -115,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
