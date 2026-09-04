@@ -18,6 +18,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1872-stone-game-viii/) | Hard |
 | [3026-maximum-good-subarray-sum](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3026-maximum-good-subarray-sum/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
