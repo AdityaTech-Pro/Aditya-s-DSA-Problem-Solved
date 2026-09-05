@@ -53,13 +53,6 @@ class Solution {
             }
             idx++;
         }
-        // for(int i=0; i<arr.length; i++){
-        //     if(arr[i]<=k){
-        //         Resindex=i;
-        //         break;
-        //     }
-        // }
-        
         return Resindex;
     }
 }
