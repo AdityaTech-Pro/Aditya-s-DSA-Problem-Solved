@@ -46,14 +46,19 @@ class Solution {
         }
 
         for(int i=0; i<n; i++){
-            arr[idx++]=prifixmax[i] - sufixmin[i];
-        }
-        for(int i=0; i<arr.length; i++){
-            if(arr[i]<=k){
+            arr[idx]=prifixmax[i] - sufixmin[i];
+            if(arr[idx]<=k){
                 Resindex=i;
                 break;
             }
+            idx++;
         }
+        // for(int i=0; i<arr.length; i++){
+        //     if(arr[i]<=k){
+        //         Resindex=i;
+        //         break;
+        //     }
+        // }
         
         return Resindex;
     }
