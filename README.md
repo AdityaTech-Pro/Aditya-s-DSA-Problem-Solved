@@ -11,6 +11,7 @@
 | [1652-defuse-the-bomb](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1872-stone-game-viii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3026-maximum-good-subarray-sum](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3026-maximum-good-subarray-sum/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -168,4 +169,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 <!---LeetCode Topics End-->
