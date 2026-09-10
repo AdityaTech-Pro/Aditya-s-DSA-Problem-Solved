@@ -137,10 +137,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
