@@ -15,6 +15,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3026-maximum-good-subarray-sum](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3026-maximum-good-subarray-sum/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3483-unique-3-digit-even-numbers](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -70,6 +71,7 @@
 | [0141-linked-list-cycle](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [3026-maximum-good-subarray-sum](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3026-maximum-good-subarray-sum/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -159,6 +161,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Union-Find
@@ -181,4 +184,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
