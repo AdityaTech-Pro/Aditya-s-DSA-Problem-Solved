@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0001-two-sum/) | Easy |
 | [0088-merge-sorted-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0835-image-overlap](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1872-stone-game-viii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1872-stone-game-viii/) | Hard |
@@ -179,6 +180,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
