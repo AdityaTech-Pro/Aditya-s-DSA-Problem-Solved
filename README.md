@@ -66,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0088-merge-sorted-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Hash Table
@@ -75,6 +76,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3026-maximum-good-subarray-sum](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3026-maximum-good-subarray-sum/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -104,6 +106,7 @@
 | [0115-distinct-subsequences](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0115-distinct-subsequences/) | Hard |
 | [0520-detect-capital](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0520-detect-capital/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -111,6 +114,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
