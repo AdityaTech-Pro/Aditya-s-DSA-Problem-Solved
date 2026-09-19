@@ -28,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1872-stone-game-viii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -203,4 +204,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
