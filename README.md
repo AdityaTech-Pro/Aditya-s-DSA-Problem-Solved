@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0169-majority-element/) | Easy |
@@ -66,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -144,6 +146,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0042-trapping-rain-water/) | Hard |
 | [0115-distinct-subsequences](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -210,10 +213,12 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0042-trapping-rain-water/) | Hard |
 | [2104-sum-of-subarray-ranges](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0042-trapping-rain-water/) | Hard |
 | [2104-sum-of-subarray-ranges](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
