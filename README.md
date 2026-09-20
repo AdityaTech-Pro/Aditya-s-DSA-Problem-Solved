@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0169-majority-element/) | Easy |
@@ -63,6 +64,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0142-linked-list-cycle-ii/) | Medium |
