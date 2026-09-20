@@ -113,6 +113,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Greedy
@@ -208,4 +209,8 @@
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
