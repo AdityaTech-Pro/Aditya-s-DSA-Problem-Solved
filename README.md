@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0229-majority-element-ii/) | Medium |
+| [0322-coin-change](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0322-coin-change/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0835-image-overlap](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -154,6 +155,7 @@
 | [0042-trapping-rain-water](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0042-trapping-rain-water/) | Hard |
 | [0115-distinct-subsequences](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0322-coin-change](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0322-coin-change/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1872-stone-game-viii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1872-stone-game-viii/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -209,6 +211,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0322-coin-change/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -251,4 +254,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
