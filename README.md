@@ -17,6 +17,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0835-image-overlap](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1872-stone-game-viii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -209,6 +210,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -268,4 +270,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1143-longest-common-subsequence/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
