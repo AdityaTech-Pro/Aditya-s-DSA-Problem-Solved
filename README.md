@@ -133,6 +133,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0520-detect-capital](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0520-detect-capital/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -231,6 +232,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0042-trapping-rain-water/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -300,6 +302,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
