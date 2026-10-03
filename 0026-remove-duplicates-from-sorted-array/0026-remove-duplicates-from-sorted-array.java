@@ -6,20 +6,20 @@ class Solution {
             set.add(nums[i]);
         }
 
+        int k=set.size();
         int idx=0;
-        int[] temp=new int[set.size()];
-        for(int x : set){
-            temp[idx++]=x;
-        }
-        Arrays.sort(temp);
-
-        for(int i=0; i<n; i++){
-            nums[i]=0;
-        }
-        for(int i=0; i<temp.length; i++){
-            nums[i]=temp[i];
+        int[] part=new int[k];
+        for(int val : set){
+            part[idx++]=val;
         }
 
-       return temp.length;
+        Arrays.sort(part);
+        for(int i=0; i<k; i++){
+            nums[i]=part[i];
+        }
+        for(int i=idx; i<n; i++){
+            nums[idx++]=0;
+        }
+        return k;
     }
 }
