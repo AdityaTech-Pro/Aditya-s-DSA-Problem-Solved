@@ -11,8 +11,8 @@ class Solution {
             if(prefix[i]==k){
                 count++;
             }
-            for(int j=0; j<=i-1; j++){
-                if(prefix[i]-prefix[j] == k){
+            for(int j=i+1; j<n; j++){
+                if(prefix[j]-prefix[i] == k){
                     count++;
                 }
             }
