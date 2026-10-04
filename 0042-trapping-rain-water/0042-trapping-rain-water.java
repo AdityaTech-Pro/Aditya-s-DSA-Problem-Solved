@@ -1,19 +1,21 @@
 class Solution {
-    public int trap(int[] height) {
-        int pre[]=new int [height.length];
-        int suff[]=new int [height.length];
-        pre[0]=height[0];
-        for(int i=1; i<height.length; i++){
-            pre[i]=Math.max(height[i],pre[i-1]);
+    public int trap(int[] h) {
+        int n=h.length;
+        int[] pre=new int[n];
+        pre[0]=h[0];
+        for(int i=1; i<n; i++){
+            pre[i]=Math.max(pre[i-1], h[i]);
         }
-        suff[height.length-1]=height[height.length-1];
-        for(int i=height.length-2; i>=0; i--){
-            suff[i]=Math.max(height[i],suff[i+1]);
+
+        int[] suf=new int[n];
+        suf[n-1]=h[n-1];
+        for(int i=n-2; i>=0; i--){
+            suf[i]=Math.max(suf[i+1], h[i]);
         }
         int ans=0;
-        for(int i=0;i<height.length;i++){
-            int val=Math.min(pre[i],suff[i])-height[i];
-            ans +=val;
+        for(int i=0; i<n; i++){
+            int val=Math.min(pre[i], suf[i])-h[i];
+            ans+=val;
         }
         return ans;
     }
