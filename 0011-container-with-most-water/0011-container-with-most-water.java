@@ -1,18 +1,18 @@
 class Solution {
-    public int maxArea(int[] height) {
-        int startIndexOfContainer=0;
-        int endIndexOfContainer=height.length-1;
-        int cwmw=0;
-        while(startIndexOfContainer < endIndexOfContainer){
-            int minLine=Math.min(height[startIndexOfContainer], height[endIndexOfContainer]);
-            int containerWidth=endIndexOfContainer - startIndexOfContainer;
-            cwmw=Math.max(cwmw, minLine*containerWidth);
-            if(height[startIndexOfContainer] <= height[endIndexOfContainer]){
-                startIndexOfContainer++;
+    public int maxArea(int[] h) {
+        int left=0;
+        int right=h.length-1;
+        int ans=0;
+        while(left<right){
+            int height=Math.min(h[left],h[right]);
+            int depth=right-left;
+            ans=Math.max(ans,height*depth);
+            if(h[left] <= h[right]){
+                left++;
             }else{
-                endIndexOfContainer--;
+                right--;
             }
         }
-        return cwmw;
+        return ans;
     }
 }
