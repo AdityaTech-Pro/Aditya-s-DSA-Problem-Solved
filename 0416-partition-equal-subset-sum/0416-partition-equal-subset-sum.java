@@ -13,6 +13,8 @@ class Solution {
         dp[0]=true;
         for(int num : nums){
             for(int j=target; j>=num; j--){
+
+                //remember for subsequence sum using dp
                 dp[j] = dp[j] || dp[j - num];
             }
         }
