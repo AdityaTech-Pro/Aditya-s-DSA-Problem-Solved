@@ -13,6 +13,7 @@
 | [0152-maximum-product-subarray](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0198-house-robber/) | Medium |
 | [0229-majority-element-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0229-majority-element-ii/) | Medium |
 | [0322-coin-change](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0322-coin-change/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -173,6 +174,7 @@
 | [0115-distinct-subsequences](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0322-coin-change/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1143-longest-common-subsequence/) | Medium |
