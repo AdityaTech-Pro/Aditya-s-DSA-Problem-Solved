@@ -41,6 +41,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0189-rotate-array/) | Medium |
 | [0836-rectangle-overlap](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
