@@ -13,6 +13,6 @@ FROM(
     FROM Employee e
     JOIN Department d ON e.departmentId = d.id
 )AS temp
-WHERE temp.rnk=1;
+WHERE rnk=1;
 
 
