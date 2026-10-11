@@ -347,5 +347,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0176-second-highest-salary/) | Medium |
+| [0177-nth-highest-salary](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0177-nth-highest-salary/) | Medium |
 | [0184-department-highest-salary](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0184-department-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
