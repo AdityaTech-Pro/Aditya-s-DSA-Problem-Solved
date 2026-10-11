@@ -343,4 +343,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
