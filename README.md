@@ -19,6 +19,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0835-image-overlap](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1652-defuse-the-bomb/) | Easy |
@@ -239,6 +240,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -268,6 +270,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -275,11 +278,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0322-coin-change/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
