@@ -54,6 +54,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0189-rotate-array/) | Medium |
 | [0836-rectangle-overlap](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0836-rectangle-overlap/) | Easy |
@@ -213,6 +214,7 @@
 | [0022-generate-parentheses](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -410,6 +412,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0070-climbing-stairs/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Fermat's Little Theorem
 | Problem Name | Difficulty |
