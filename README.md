@@ -191,6 +191,7 @@
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,6 +364,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,6 +399,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -418,4 +421,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 <!---LeetCode Topics End-->
