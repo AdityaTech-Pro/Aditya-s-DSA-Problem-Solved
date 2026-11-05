@@ -14,7 +14,6 @@ class Solution {
                     c++;
                 }   
             }
-            System.out.println(c);
             if(c==m){
                 count++;
                 //Sysyem.out.println();
