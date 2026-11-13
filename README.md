@@ -42,6 +42,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -259,6 +260,7 @@
 | [0076-minimum-window-substring](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0076-minimum-window-substring/) | Hard |
 | [1652-defuse-the-bomb](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -335,11 +337,13 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0042-trapping-rain-water/) | Hard |
 | [2104-sum-of-subarray-ranges](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,6 +373,7 @@
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Knapsack Problem
@@ -448,4 +453,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
