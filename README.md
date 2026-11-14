@@ -41,6 +41,7 @@
 | [3026-maximum-good-subarray-sum](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3026-maximum-good-subarray-sum/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -167,6 +168,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1872-stone-game-viii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1872-stone-game-viii/) | Hard |
 | [3026-maximum-good-subarray-sum](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3026-maximum-good-subarray-sum/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Linked List
@@ -260,6 +262,7 @@
 | [0076-minimum-window-substring](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0076-minimum-window-substring/) | Hard |
 | [1652-defuse-the-bomb](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
