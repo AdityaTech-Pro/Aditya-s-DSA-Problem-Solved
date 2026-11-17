@@ -125,6 +125,7 @@
 | [0189-rotate-array](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0189-rotate-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -207,6 +208,7 @@
 | [1927-sum-game](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1927-sum-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -247,6 +249,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1872-stone-game-viii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1872-stone-game-viii/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3693-climbing-stairs-ii/) | Medium |
