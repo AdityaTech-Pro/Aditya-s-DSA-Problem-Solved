@@ -40,6 +40,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3026-maximum-good-subarray-sum](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3026-maximum-good-subarray-sum/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -140,6 +141,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -251,6 +253,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1872-stone-game-viii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1872-stone-game-viii/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3693-climbing-stairs-ii/) | Medium |
