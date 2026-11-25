@@ -161,6 +161,7 @@
 | [0076-minimum-window-substring](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0229-majority-element-ii/) | Medium |
@@ -193,6 +194,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0146-lru-cache/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -495,6 +497,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0146-lru-cache/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -512,4 +515,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3934-smallest-unique-subarray](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
