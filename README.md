@@ -84,6 +84,7 @@
 | [1927-sum-game](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/1927-sum-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/2409-count-days-spent-together/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3360-stone-removal-game](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -389,6 +390,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3360-stone-removal-game](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/AdityaTech-Pro/Aditya-s-DSA-Problem-Solved/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
